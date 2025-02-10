@@ -70,7 +70,9 @@ Ollama allows you to easily download and use different DeepSeek models. Run the 
 🔹 Download DeepSeek Models
 
 ollama pull deepseek-r1:1.5b
+
 ollama pull deepseek-r1:3b
+
 download other models from : https://ollama.com/library/deepseek-coder
 
 🔹 Run Ollama Locally
