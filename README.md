@@ -87,4 +87,8 @@ This ensures your app can use the required DeepSeek models for AI-based coding a
 
 ## 🔧 Future Enhancements
 
-📌 Add more DeepSeek models for better performance.📌 Improve multi-language support (C++, JavaScript, Java, etc.).📌 Enhance real-time AI suggestions while coding.
+📌 Add more DeepSeek models for better performance.
+
+📌 Improve multi-language support (C++, JavaScript, Java, etc.).
+
+📌 Enhance real-time AI suggestions while coding.
