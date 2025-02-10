@@ -1,4 +1,4 @@
-🧠 DeepSeek Code Companion
+## 🧠 DeepSeek Code Companion
 
 🚀 Overview
 
