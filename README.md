@@ -1,6 +1,6 @@
 # 🧠 DeepSeek Code Companion
 
-##🚀 Overview
+## 🚀 Overview
 
 DeepSeek Code Companion is an AI-powered coding assistant built using Streamlit, DeepSeek models, and LangChain. It helps with:
 
